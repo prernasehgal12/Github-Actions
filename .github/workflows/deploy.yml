@@ -17,7 +17,7 @@ jobs:
 
  
 
-      # - name: Run tests
-      #   run: 
-      #      python test.py
+      - name: Run tests
+        run: 
+           python main.py
         
